@@ -21,8 +21,5 @@ $ python3 main.py phone_number<br>
 - Input OTP
 - And Happy Mining
 
-# Media Sosial :
-- https://linktr.ee/doko1554
-
 # Special Thx
   Owner Script
