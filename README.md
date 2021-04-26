@@ -11,13 +11,14 @@ $ apt update && apt upgrade<br>
 $ pkg update && pkg upgrade<br>
 $ apt install python git<br>
 $ git clone https://github.com/hansdhika/allcoin<br>
-$ cd allbotclick<br>
+$ cd allcoin<br>
 $ pip3 install -r requirements.txt<br>
+$ pip install --upgrade pip<br>
 $ python3 main.py phone_number<br>
 
 # Note :
 - Tidak Ada Bypass Captcha Otomatis
-- Bisa Menggunakan Nomor Luar/ID, Syarat Input Nomor : python main.py 62813****** / python main.py 1315*******
+- Bisa Menggunakan Nomor Luar/ID, Syarat Input Nomor : python3 main.py 62813****** / python3 main.py 1315*******
 - Input OTP
 - And Happy Mining
 
