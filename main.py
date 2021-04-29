@@ -24,8 +24,8 @@ color_ama(autoreset=True)
 os.system('cls' if os.name=='nt' else 'clear')
 
 # Get your own values from my.telegram.org
-api_id = 800812
-api_hash = 'db55ad67a98df35667ca788b97f771f5'
+api_id = 4042245
+api_hash = '6290d0442a968d7f72c3f7c6997bc3f7'
 
 
 # Bot options
